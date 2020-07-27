@@ -7,7 +7,7 @@ Realtime Chat Application is being sponsored by the following tool; please help 
 </a>
 
 ### [Live Site](https://realtime-react-chatapp.netlify.app/)
-![Chat Application](https://i.ibb.co/Scv48Qh/image-1.png)
+![Chat Application](https://i.postimg.cc/0jkMBGHQ/image-1.png)
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
