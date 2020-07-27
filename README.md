@@ -1,5 +1,5 @@
 # Realtime Chat Application
-[![Canonical Badge](https://img.shields.io/badge/Live__Site-30302f?style=for-the-badge&logo=canonical)](https://realtime-react-chatapp.netlify.app/)
+[![Canonical Badge](https://img.shields.io/badge/Live__Site-EF3125?style=for-the-badge&logo=canonical)](https://realtime-react-chatapp.netlify.app/)
 
 ![Chat Application](https://i.postimg.cc/0jkMBGHQ/image-1.png)
 
