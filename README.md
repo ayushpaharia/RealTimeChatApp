@@ -1,8 +1,7 @@
 # Realtime Chat Application
-
-### [Live Site](https://realtime-react-chatapp.netlify.app/)
+[![Canonical Badge](https://img.shields.io/badge/ayushpaharia-30302f?style=for-the-badge&logo=canonical)](https://realtime-react-chatapp.netlify.app/)
 ![Chat Application](https://i.postimg.cc/0jkMBGHQ/image-1.png)
-https://img.shields.io/badge/LIVE-Realtime%20React%20Chat%20App-%23D3394C?style=for-the-badge&logo=canonical
+
 ## Introduction
 
 This project is made by using React on the front end, with NodeJS + Socket.io web socket library on the back end. 
