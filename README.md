@@ -6,9 +6,8 @@ Realtime Chat Application is being sponsored by the following tool; please help 
  <img src="https://images.gitads.io/project_chat_application" alt="GitAds"/> 
 </a>
 
-### [Live Site](https://realtime-chat-application.netlify.com)
-
-![Chat Application](https://i.ytimg.com/vi/ZwFA3YMfkoc/maxresdefault.jpg)
+### [Live Site](https://realtime-react-chatapp.netlify.app/)
+![Chat Application](https://ibb.co/Scv48Qh)
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
