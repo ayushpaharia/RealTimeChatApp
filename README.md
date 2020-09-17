@@ -1,6 +1,8 @@
 # Realtime Chat Application
 
-![Chat Application](https://i.postimg.cc/j2Ztjyf9/2020-09-17-08-22-53-Setup-OBS-API-Key-for-React-Streaming-App-Google-Docs.png)
+[![Canonical Badge](https://img.shields.io/badge/Live__Site-EF3125?style=for-the-badge&logo=canonical)](https://realtime-react-chatapp.netlify.app/)
+
+![Streaming App](https://i.postimg.cc/0jkMBGHQ/image-1.png)
 
 ## Introduction
 
